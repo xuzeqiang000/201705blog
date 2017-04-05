@@ -3,4 +3,12 @@
 https://github.com/xuzeqiang000/201704blog.git
   express -e 201705blog
   启动
+
+
  DEBUG=201705blog:* npm start
+
+
+ git remote add origin https://github.com/xuzeqiang000/201705blog.git
+git add --all
+git commit -m 'huhude'
+git push -u origin master
