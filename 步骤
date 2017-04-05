@@ -1,0 +1,6 @@
+#1.创建仓库
+#2 克隆到本地
+https://github.com/xuzeqiang000/201704blog.git
+  express -e 201705blog
+  启动
+ DEBUG=201705blog:* npm start
